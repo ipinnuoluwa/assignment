@@ -1,0 +1,1 @@
+Git is the version control system that tracks changes to code and allows for collaboration among developers. GitHub is a platform built around Git that offers additional collaboration and project management tools, along with web-based hosting for Git repositories.

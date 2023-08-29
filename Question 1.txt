@@ -1,0 +1,9 @@
+Git is a version control system that allows developers to track changes made to their code over
+time.
+Problem Git solves are:
+Version Control: Git allows developers to track changes to their code over time.
+Collaboration: Git enables multiple developers to work on the same project simultaneously, even if they are geographically distributed.
+Branching and Merging: Git allows developers to create separate branches to work on specific features, bug fixes, or experiments. This is important because it allows developers to isolate their changes from the main codebase until they are ready to be merged.
+Code Review and Quality Control
+Open Source and Collaboration:  It allows developers from around the world to contribute to projects without needing direct access to the original codebase.
+Fast and Efficient: Git is designed to be highly efficient and capable of handling large codebases

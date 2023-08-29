@@ -1,0 +1,7 @@
+The Basic workflow for using Git for version control include;
+-Initialize a repository
+-Directory and Staging Area
+-Commit changes
+-Branching
+-Merge and Pull requests
+-Pull and fetch

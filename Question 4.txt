@@ -1,0 +1,1 @@
+A Git repository is a directory or folder that contains all the files, directories, and metadata associated with a project, along with a hidden subdirectory called the ".git" directory. This ".git" directory is the core of Git's version control system and contains the information needed to manage and track changes to the files within the repository.
